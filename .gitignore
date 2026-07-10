@@ -1,0 +1,58 @@
+# ========================
+# Python & Jupyter
+# ========================
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+*.egg-info/
+
+# ========================
+# Virtual Environment
+# ========================
+venv/
+.venv/
+env/
+ENV/
+5. Project Executable Files/venv/
+
+# ========================
+# Logs & Output
+# ========================
+*.log
+*.out
+*.tmp
+*.swp
+
+# ========================
+# Environment / Config Files
+# ========================
+.env
+.env.*
+config.yaml
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# VSCode / IDEs
+# ========================
+.vscode/
+.idea/
+*.code-workspace
+
+# ========================
+# Node or JS (if any future frontend is added)
+# ========================
+node_modules/
+dist/
+build/
+
+# ========================
+# Mac/Linux system files
+# ========================
+*.bak
+*.orig
